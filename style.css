@@ -1,0 +1,35 @@
+.petite_image{
+    width:50px;
+    height:50px;
+}
+p{
+    width:50px;
+    height:50px;
+    background-image: url('cactus.jpg');
+    background-size: cover;
+}
+.img_opened {
+    position:fixed;
+    width:800px;
+    height:800px;
+    background-color: aqua;
+}
+
+.grand_image{
+    width:500px;
+    height:500px;
+}
+.btn_close{
+    background-color: #32619F;
+    width:20px;
+    height:20px;
+    color:whitesmoke;
+    position: absolute;
+    top:100px;
+    right:200px;
+}
+.btn_close:hover{
+    color:tomato;
+    background-color: #2177C3;
+}
+
